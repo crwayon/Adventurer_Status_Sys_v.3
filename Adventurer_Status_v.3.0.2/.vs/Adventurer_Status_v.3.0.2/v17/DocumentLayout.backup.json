@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\UnrealProject\\gitprac_1\\Adventurer_Status_v.3.0.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80705CC9-2966-465B-A15D-0C090C8826AC}|Adventurer_Status_v.3.0.2\\Adventurer_Status_v.3.0.2.vcxproj|C:\\Users\\user\\UnrealProject\\gitprac_1\\Adventurer_Status_v.3.0.2\\Adventurer_Status_v.3.0.2\\Adventurer_Status_v.3.0.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80705CC9-2966-465B-A15D-0C090C8826AC}|Adventurer_Status_v.3.0.2\\Adventurer_Status_v.3.0.2.vcxproj|solutionrelative:Adventurer_Status_v.3.0.2\\Adventurer_Status_v.3.0.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adventurer_Status_v.3.0.2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\UnrealProject\\gitprac_1\\Adventurer_Status_v.3.0.2\\Adventurer_Status_v.3.0.2\\Adventurer_Status_v.3.0.2.cpp",
+              "RelativeDocumentMoniker": "Adventurer_Status_v.3.0.2\\Adventurer_Status_v.3.0.2.cpp",
+              "ToolTip": "C:\\Users\\user\\UnrealProject\\gitprac_1\\Adventurer_Status_v.3.0.2\\Adventurer_Status_v.3.0.2\\Adventurer_Status_v.3.0.2.cpp",
+              "RelativeToolTip": "Adventurer_Status_v.3.0.2\\Adventurer_Status_v.3.0.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T23:40:12.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
